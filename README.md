@@ -2,6 +2,12 @@
 
 PC-Remote is a python desktop app that runs on the PC you want to control, it will open a console window showing a QR code and a url, you must access that url from your phone to start controlling the mouse and keyboard.
 
+<img src="img/cover.jpg" width="45%" height="50%">|
+<img src="img/A.jpg" width="15%" height="30%">|
+<img src="img/B.jpg" width="15%" height="30%">|
+<img src="img/C.jpg" width="15%" height="30%">
+
+
 # How it's made
 The server is written in Python and it uses [pyautogui](https://pyautogui.readthedocs.io/) to control the mouse and keyboard. It creates a WebSocket server and a simple HTTPServer used to deliver the front end app which is done in [React](https://reactjs.org/)
 

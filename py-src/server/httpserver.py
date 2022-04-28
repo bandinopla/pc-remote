@@ -3,10 +3,11 @@ import socketserver
 from utils import resource_path, get_ip 
 import qrcode 
 import io
+import http.server
 
 PORT = 9000
 
-
+ 
 class MyHttpRequestHandler(http.server.SimpleHTTPRequestHandler):
     def do_GET(self):   
             if( self.path == "/"):

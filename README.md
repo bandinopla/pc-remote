@@ -4,7 +4,8 @@ PC-Remote is a python desktop app that runs on the PC you want to control, it wi
 
 **it takes a few seconds to load because it is compressed in a single .exe**
 
->[Download executable (windows)](https://bandinopla.itch.io/pc-remote)
+>- [Download executable (windows)](https://bandinopla.itch.io/pc-remote) 
+>- [Virus total Scan result (it has false positives)](https://www.virustotal.com/gui/file/bac2d8131da6d22491b1957a7983c10189c2a318cbcc08dd515f1a400be70b33/detection) 
 
 
 <img src="img/cover.jpg" width="45%" height="50%">|
